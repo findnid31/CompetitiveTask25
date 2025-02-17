@@ -1,0 +1,19 @@
+[
+    {
+        "Country": "New Zealand",
+	"University": "Oxford University",
+	"Title": "B.A",
+	"Degree": "Masters",
+	"Year of University": "2015"
+        
+    },
+     {
+        "Country": "United Arab Emirates",
+	"University": "Bits Pilani",
+	"Title": "B.A",
+	"Degree": "Bachelor of Arts",
+	"Year of University": "2013"
+      
+    }
+	
+]
