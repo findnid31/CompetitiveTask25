@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nir025\\source\\repos\\NUnitQAMars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB688F9-913F-46D2-B065-EBFB57A4CE8A}|NUnitQAMars.csproj|c:\\users\\nir025\\source\\repos\\nunitqamars\\utilities\\commondriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB688F9-913F-46D2-B065-EBFB57A4CE8A}|NUnitQAMars.csproj|solutionrelative:utilities\\commondriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB688F9-913F-46D2-B065-EBFB57A4CE8A}|NUnitQAMars.csproj|c:\\users\\nir025\\source\\repos\\nunitqamars\\pages\\educationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB688F9-913F-46D2-B065-EBFB57A4CE8A}|NUnitQAMars.csproj|solutionrelative:pages\\educationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB688F9-913F-46D2-B065-EBFB57A4CE8A}|NUnitQAMars.csproj|c:\\users\\nir025\\source\\repos\\nunitqamars\\pages\\certificatepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB688F9-913F-46D2-B065-EBFB57A4CE8A}|NUnitQAMars.csproj|solutionrelative:pages\\certificatepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB688F9-913F-46D2-B065-EBFB57A4CE8A}|NUnitQAMars.csproj|c:\\users\\nir025\\source\\repos\\nunitqamars\\tests\\certificate_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB688F9-913F-46D2-B065-EBFB57A4CE8A}|NUnitQAMars.csproj|solutionrelative:tests\\certificate_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB688F9-913F-46D2-B065-EBFB57A4CE8A}|NUnitQAMars.csproj|c:\\users\\nir025\\source\\repos\\nunitqamars\\tests\\education_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB688F9-913F-46D2-B065-EBFB57A4CE8A}|NUnitQAMars.csproj|solutionrelative:tests\\education_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommonDriver.cs",
+              "DocumentMoniker": "C:\\Users\\nir025\\source\\repos\\NUnitQAMars\\Utilities\\CommonDriver.cs",
+              "RelativeDocumentMoniker": "Utilities\\CommonDriver.cs",
+              "ToolTip": "C:\\Users\\nir025\\source\\repos\\NUnitQAMars\\Utilities\\CommonDriver.cs",
+              "RelativeToolTip": "Utilities\\CommonDriver.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwCUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:17:21.901Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EducationPage.cs",
+              "DocumentMoniker": "C:\\Users\\nir025\\source\\repos\\NUnitQAMars\\Pages\\EducationPage.cs",
+              "RelativeDocumentMoniker": "Pages\\EducationPage.cs",
+              "ToolTip": "C:\\Users\\nir025\\source\\repos\\NUnitQAMars\\Pages\\EducationPage.cs",
+              "RelativeToolTip": "Pages\\EducationPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:51:01.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CertificatePage.cs",
+              "DocumentMoniker": "C:\\Users\\nir025\\source\\repos\\NUnitQAMars\\Pages\\CertificatePage.cs",
+              "RelativeDocumentMoniker": "Pages\\CertificatePage.cs",
+              "ToolTip": "C:\\Users\\nir025\\source\\repos\\NUnitQAMars\\Pages\\CertificatePage.cs",
+              "RelativeToolTip": "Pages\\CertificatePage.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:50:46.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Education_Test.cs",
+              "DocumentMoniker": "C:\\Users\\nir025\\source\\repos\\NUnitQAMars\\Tests\\Education_Test.cs",
+              "RelativeDocumentMoniker": "Tests\\Education_Test.cs",
+              "ToolTip": "C:\\Users\\nir025\\source\\repos\\NUnitQAMars\\Tests\\Education_Test.cs",
+              "RelativeToolTip": "Tests\\Education_Test.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:50:12.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Certificate_test.cs",
+              "DocumentMoniker": "C:\\Users\\nir025\\source\\repos\\NUnitQAMars\\Tests\\Certificate_test.cs",
+              "RelativeDocumentMoniker": "Tests\\Certificate_test.cs",
+              "ToolTip": "C:\\Users\\nir025\\source\\repos\\NUnitQAMars\\Tests\\Certificate_test.cs",
+              "RelativeToolTip": "Tests\\Certificate_test.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAswE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:49:57.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
